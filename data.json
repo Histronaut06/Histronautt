@@ -1,0 +1,201 @@
+{
+  "articles": [
+    {
+      "id": "vasossanguineos",
+      "title": "Vasos",
+      "description": "Histologías de los vasos sanguíneos.",
+      "sections": [
+        {
+          "id": "introduccion",
+          "title": "Introducción",
+          "content": "Conocer la histología de los vasos sanguíneos es indispensable para comprender la estructura y su función. Dominar estos conceptos permite identificar patologías frecuentes de los vasos sanguíneos, tales como la formación de una placa de ateroma y aneurismas. El propósito de este recurso digital es permitir a los estudiantes visualizar y distinguir la histología  principal de arterias, venas, arteriolas, vénulas y lesiones vasculares de gran importancia. Los vasos sanguíneos se componen de 3 capas:",
+         "items": [
+            "Túnica íntima",
+            "Túnica media",
+            "Adventicia",
+            "Las arterias presentan paredes más gruesas con capas musculares y elásticas prominentes, mientras que las venas muestran menor grosor, luz más amplia, y y válvulas para evitar el reflujo."
+          ]
+        },
+        {
+          "id": "arteria elastica",
+          "title": "Arteria elástica",
+          "content": "Las arterias elásticas presentan una túnica media con numerosas láminas elásticas que se intercalan con el músculo liso. Para soportar las presiones altas en La adventicia encontramos vasa vasorum.",
+          "image": [
+            "venas arterias-01.png"
+          ]
+        },
+        {
+          "id": "arteria muscular",
+          "title": "Arteria Muscular ",
+          "content": "Las arterias musculares tienen una túnica media con varias capas de músculo liso, poseen una membrana elástica interna definida y menos fibras elásticas en comparación con las arterias elásticas.",
+          "image": "venas arterias-02.png"
+        },
+        {
+          "id": "arteriolas",
+          "title": "Arteriolas",
+          "content": "Las arteriolas poseen una túnica media con una sola capa de de celulas de músculo liso, no poseen membranas elásticas definidas. La función de las arteriolas es regular la resistencia periférica y controlar el flujo de la sangre hacia los capilares.",
+          "image": "venas arterias-05.png"
+        },
+        {
+          "id": "venas",
+          "title": "Venas",
+          "content": "Las venas presentan una túnica media más delgada y una adventicia mucho más gruesa. Posee tejido conectivo abundante y escasas fibras elásticas. Las venas se caracterizan ya que poseen válvulas endoteliales que previenen el reflujo de la sangre.",
+          "image": [
+            "venas arterias-04.png",
+            "venas arterias-05.png"
+          ]
+        },
+        {
+          "id": "venulas",
+          "title": "Venulas ",
+          "content": "Las vénulas poseen únicamente endotelio y periquitos, su túnica media es muy escasa. Estas estructuras no presentan válvulas y drenan en venas mayores.",
+          "image": "venas arterias-06.png"
+        },
+       {
+      "id": "tipos-vasos",
+      "title": "Tipos de vasos sanguíneos",
+      "content": "Clasificación estructural y funcional de los vasos sanguíneos según sus características anatómicas:",
+      "image": "Tipo de vasos.png"
+    }
+      ]
+    },
+    {
+      "id": "aneurismas",
+      "title": "Aneurismas",
+      "description": "Explicación y teoría sobre los aneurismas.",
+      "sections": [
+        {
+          "id": "introduccion",
+          "title": "Introducción",
+          "content": [
+            "Los aneurismas son dilataciones anormales localizadas en la pared de un vaso sanguíneo (predominantemente arterias). Esta lesión se produce cuando algunas de las capas de la pared arterial (con mayor recurrencia la túnica media) se debilita, lo que permite que el vaso se expanda en forma de globo.",
+            
+            "Los aneurismas son lesiones que pueden crecer sin causar ningún síntoma, lo cual lo vuelve sumamente peligroso debido a que sí se rompe, provocaría una hemorragia interna grave y potencialmente mortal",
+            
+            "A Menudo se detectan mediante estudios de imágenes como ecografías abdominales, tomografías computarizadas, resonancias magnéticas o angiografías.",
+            
+            "Existen varios tipos de aneurismas entre ellos están:"
+          ],
+         "items": [
+            "Falsos aneurismas: estos también conocidos como seudo aneurismas, se presentan cuando existe una ruptura parcial del vaso sanguíneo pero la sangre queda contenida por los tejidos qué lo rodean",
+            "Aneurismas disecantes: toman este nombre debido a que ocurre una separación de sus capas internas lo que obstruye el flujo de la sangre y forma un canal dentro de la pared del vaso sanguíneo.",
+            "Aneurismas verdaderos: estos aneurismas afectan a todas las capas del vaso sanguíneo (intima, media y adventicia)."
+          ]
+        },
+        {
+          "id": "localizaciones aneurismas",
+          "title": "Localizaciones Frecuentes y etiolgoias",
+          "image": [
+            "localizacion aneurismas.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atheroma",
+      "title": "Placa de atheroma ",
+      "description": "Lesión característica de la ateroesclerosis",
+      "sections": [
+        {
+          "id": "introduccion",
+          "title": "Introducción",
+          "content": [
+            "La placa de ateroma es una acumulación de grasas, células inflamatorias, colesterol y tejido fibroso en la pared interna de las arterias. Esta lesión es característica de la ateroesclerosis, una enfermedad crónica que endurece las arterias y estrecha su luz lo que dificulta el flujo sanguíneo por las mismas.  Las causas de esta enfermedad son principalmente factores como el colesterol elevado (LDL), hipertensión arterial de Larga data, tabaquismo, diabetes, sedentarismo y obesidad. Todas las causas mencionadas actúan dañando el endotelio de las arterias y favoreciendo el depósito de lípidos. Con el pasar de los años la placa crece y puede romperse. Al romperse forma un coágulo que bloquea el vaso lo que provoca eventos graves dependiendo de en dónde esté situado la placa de Ateroma."
+          ]
+        },
+        {
+          "id": "localizaciones aneurismas",
+          "title": "Localizaciones Frecuentes y etiolgoias",
+          "image": [
+            "localizacion aneurismas.png"
+          ]
+        },
+        {
+          "id": "fisiopatologia",
+          "title": "Fisiopatología"
+        },
+         {
+          "id": "lesión del endotelio",
+          "title": "1. Lesión del endotelio",
+          "content": "Por factores como hipertensión, tabaco, colesterol alto o diabetes, el endotelio (capa interna del vaso) se daña. Esto permite que el colesterol se infiltre."
+        },
+        {
+          "id": "colesterol malo",
+          "title": "2. Entrada de LDL (colesterol malo)",
+          "content": "Las lipoproteínas de baja densidad (LDL) se filtran a través del endotelio dañado y se oxidan, volviéndose tóxicas."
+        },
+        {
+          "id": "respuesta inflamatoria",
+          "title": "3. Respuesta inflamatoria",
+          "content": "El cuerpo responde activando el sistema inmune. Monocitos (glóbulos blancos) atraviesan el endotelio y se convierten en macrófagos."
+        },
+       {
+          "id": "células espumosas",
+          "title": "4. Formación de células espumosas",
+          "content": "Los macrófagos comen el colesterol oxidado y se transforman en células espumosas, que se acumulan en la pared del vaso."
+        },
+       {
+          "id": "lípidos y células",
+          "title": "5. Acumulación de lípidos y células",
+          "content": "Se forma una estría grasa, el primer signo visible de aterosclerosis. Es reversible en etapas tempranas."
+        },
+       {
+          "id": "músculo liso",
+          "title": "6. Proliferación de músculo liso",
+          "content": "Las células musculares de la capa media migran hacia la íntima (la parte interna) y producen colágeno y matriz extracelular, formando una cápsula fibrosa que recubre la placa."
+        },
+       {
+          "id": "lesión del endotelio",
+          "title": "7. Formación de placa estable o inestable",
+          "items": [
+            "Placa estable: cápsula gruesa, crecimiento lento.",
+            "Placa inestable: cápsula delgada, riesgo de ruptura y trombosis (puede causar infarto o accidente cerebrovascular)."
+          ],
+          "image":"placa estable.png"
+        },
+         {
+          "id": "fisio",
+          "title": "Lista de Fisiopatologia",
+          "content": "",
+          "image": [
+            "fisiopatologia.png"
+          ]
+        },
+        {
+          "id": "Aterosclerosis",
+          "title": "Imágenes de la aterosclerosis",
+          "content": "",
+          "image": [
+            "venas arterias-07.png",
+            "venas arterias-12.png",
+            "venas arterias-08.png",
+            "venas arterias-13.png",
+            "venas arterias-09.png",
+            "venas arterias-14.png",
+            "venas arterias-10.png",
+            "venas arterias-15.png",
+            "venas arterias-11.png",
+            "venas arterias-16.png"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trabajoenproceso",
+      "title": "Trabajando para mejorar",
+      "description": "Estamos estudiando para tener más informacion a tu alcance.",
+      "sections": [
+        {
+          "id": "Proximamente",
+          "title": "Estamos estudiando para ti",
+          "content": "",
+          "items": [
+            "..."
+          ],
+          "image": "Investigando.gif"
+        }
+      ]
+    }
+  ]
+}
